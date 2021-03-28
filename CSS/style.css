@@ -1,0 +1,99 @@
+#background{
+	background-color: black;
+	width: 1536px;
+	height: 750px;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	padding:0px;
+}
+
+#girl{
+	width: 490px;
+	height: 290px;
+	position: absolute;
+	bottom: 10px;
+	right: 1px;
+	animation-name: playeranimation;
+    animation-duration: 4s;
+    animation-play-state: paused;
+}
+
+#man1{
+
+	position: absolute;
+	bottom: 10px;
+	left: 580px;
+}
+
+#man2{
+
+	position: absolute;
+	bottom: 10px;
+	left: 450px;
+}
+
+#man3{
+
+	position: absolute;
+	bottom: 10px;
+	left: 1px;
+
+	
+}
+
+#man4{
+
+	position: absolute;
+	bottom: 10px;
+	left: 215px;
+}
+
+#man5{
+
+	position: absolute;
+	bottom: 10px;
+	left: 110px;
+}
+
+#man6{
+
+	position: absolute;
+	bottom: 10px;
+	left: 320px;
+}
+
+#textArea{
+
+	position: absolute;
+	bottom: 280px;
+	right: 650px;
+}
+
+
+#a{
+
+	width: 80px;
+	height: 30px;
+	margin-left: 10px;
+	margin-top: 400px;
+	float: left;
+}
+
+#a:hover{
+
+	background-color: #661920;
+	cursor: pointer;
+
+}
+
+#a:active{
+
+	background-color: #db1d2d;
+}
+
+#a{
+
+	background-color: #3e181b;
+	border: 3px solid #db1d2d;
+}
